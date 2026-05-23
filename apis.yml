@@ -1,0 +1,44 @@
+aid: spark-therapeutics
+url: https://raw.githubusercontent.com/api-evangelist/spark-therapeutics/refs/heads/main/apis.yml
+modified: '2026-05-23'
+description: >-
+  Spark Therapeutics is a Philadelphia-based gene therapy company founded in
+  2013 with roots at Children's Hospital of Philadelphia (CHOP). Spark
+  developed Luxturna (voretigene neparvovec-rzyl), the first FDA-approved gene
+  therapy for a genetic disease in the United States, approved in December 2017
+  for the treatment of inherited retinal disease caused by biallelic RPE65
+  mutations. Roche acquired Spark Therapeutics in December 2019 for
+  approximately $4.3 billion, and Spark has since been integrated into the
+  Roche Group, operating as a Genentech subsidiary. The original sparktx.com
+  domain now redirects to gene.com/spark. Spark does not publish any public
+  developer APIs, OpenAPI specifications, SDKs, or GitHub organization. As a
+  pharmaceutical/biotech operating under Roche, Spark's public technical
+  surface is limited to patient and prescriber information for Luxturna and
+  adverse event reporting channels (FDA MedWatch and 1-855-SPARKTX).
+apis: []
+common:
+  - type: Website
+    url: https://www.gene.com/spark
+  - type: ProductInformation
+    url: https://luxturna.com
+  - type: PatientPortal
+    url: https://mysparkgeneration.com
+  - type: ParentCompany
+    url: https://www.roche.com
+  - type: ParentCompany
+    url: https://www.gene.com
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/spark-therapeutics
+  - type: Wikipedia
+    url: https://en.wikipedia.org/wiki/Spark_Therapeutics
+  - type: Vocabulary
+    url: https://raw.githubusercontent.com/api-evangelist/spark-therapeutics/refs/heads/main/vocabulary/spark-therapeutics-vocabulary.yml
+tags:
+  - Biotechnology
+  - Pharmaceuticals
+  - Gene Therapy
+  - Rare Disease
+  - Ophthalmology
+  - Inherited Retinal Disease
+  - Roche Subsidiary
+  - Life Sciences

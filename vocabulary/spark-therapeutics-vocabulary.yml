@@ -1,0 +1,101 @@
+vocabulary: Spark Therapeutics
+description: >-
+  Domain vocabulary covering Spark Therapeutics' gene therapy work, its
+  marketed product Luxturna, and its operating context as a Roche/Genentech
+  subsidiary. Spark publishes no public APIs; this vocabulary supports
+  cross-referencing in the API Evangelist network rather than describing a
+  developer surface.
+modified: '2026-05-23'
+
+terms:
+  - term: Gene Therapy
+    definition: >-
+      A medicinal product whose active substance contains or consists of a
+      recombinant nucleic acid intended to regulate, repair, replace, add to,
+      or delete a genetic sequence in order to treat or prevent disease.
+    related:
+      - AAV Vector
+      - Voretigene Neparvovec
+
+  - term: Luxturna
+    definition: >-
+      Brand name for voretigene neparvovec-rzyl, an AAV2-based gene therapy
+      delivering a functional copy of the RPE65 gene via subretinal injection.
+      Approved by the FDA in December 2017 for patients with confirmed
+      biallelic RPE65 mutation-associated inherited retinal dystrophy with
+      viable retinal cells. The first FDA-approved gene therapy for a genetic
+      disease in the United States.
+    related:
+      - Inherited Retinal Disease
+      - RPE65
+      - Voretigene Neparvovec
+
+  - term: Voretigene Neparvovec
+    definition: >-
+      The international nonproprietary name (INN) for the active substance in
+      Luxturna; a recombinant adeno-associated virus serotype 2 (AAV2) vector
+      carrying the human RPE65 gene.
+    related:
+      - Luxturna
+      - AAV Vector
+
+  - term: RPE65
+    definition: >-
+      Retinal pigment epithelium-specific 65 kDa protein gene. Biallelic
+      loss-of-function mutations cause severe inherited retinal dystrophies
+      including Leber congenital amaurosis type 2 (LCA2) and retinitis
+      pigmentosa.
+    related:
+      - Inherited Retinal Disease
+      - Luxturna
+
+  - term: Inherited Retinal Disease
+    definition: >-
+      A group of genetic disorders that cause progressive vision loss due to
+      degeneration of photoreceptors and/or the retinal pigment epithelium.
+      Luxturna addresses the subset caused by biallelic RPE65 mutations.
+    related:
+      - RPE65
+      - Luxturna
+
+  - term: AAV Vector
+    definition: >-
+      Adeno-associated virus vector used as the gene-delivery platform for
+      voretigene neparvovec and many other in-vivo gene therapies. AAV2 is the
+      serotype used in Luxturna.
+    related:
+      - Gene Therapy
+      - Voretigene Neparvovec
+
+  - term: Roche Acquisition
+    definition: >-
+      F. Hoffmann-La Roche completed its acquisition of Spark Therapeutics in
+      December 2019 for approximately $4.3 billion. Spark continues to operate
+      as a subsidiary within the Roche Group and is integrated alongside
+      Genentech.
+    related:
+      - Roche
+      - Genentech
+
+  - term: Children's Hospital of Philadelphia (CHOP)
+    definition: >-
+      Spark Therapeutics was spun out of the Center for Cellular and Molecular
+      Therapeutics at the Children's Hospital of Philadelphia in 2013. The
+      RPE65 gene therapy research program that became Luxturna originated at
+      CHOP.
+    related:
+      - Spark Therapeutics
+
+  - term: MySparkGeneration
+    definition: >-
+      Patient support program and resource portal for individuals and families
+      affected by inherited retinal disease, operated by Spark Therapeutics.
+    related:
+      - Luxturna
+
+tags:
+  - Gene Therapy
+  - Rare Disease
+  - Ophthalmology
+  - Inherited Retinal Disease
+  - Roche Subsidiary
