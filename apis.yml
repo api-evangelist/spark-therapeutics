@@ -17,6 +17,10 @@ description: >-
   adverse event reporting channels (FDA MedWatch and 1-855-SPARKTX).
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/spark-therapeutics-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/spark-therapeutics-domain-security.yml
   - type: Website
     url: https://www.gene.com/spark
   - type: ProductInformation
